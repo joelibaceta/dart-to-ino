@@ -1,0 +1,8 @@
+name: my_project
+description: an Experiment
+
+environment:
+  sdk: '3.3.4'
+
+dependencies:
+  kernel: any
